@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Home",
+    "restaurant": "Restaurant",
+    "catering": "Catering",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "errors": {
+    "content_not_found": "Content not available"
+  },
+  "meta": {
+    "home": {
+      "title": "Maison Amour - Bordeaux Restaurant Group",
+      "description": "Discover Maison Amour, a Bordeaux restaurant group combining gastronomy and conviviality."
+    },
+    "restaurant": {
+      "title": "Restaurant - Maison Amour",
+      "description": "Our restaurant welcomes you in a warm atmosphere for a unique culinary experience."
+    },
+    "catering": {
+      "title": "Catering Service - Maison Amour",
+      "description": "Quality catering service for your professional and private events in Bordeaux."
+    },
+    "contact": {
+      "title": "Contact - Maison Amour",
+      "description": "Contact us for any information or reservation request."
+    }
+  }
+}

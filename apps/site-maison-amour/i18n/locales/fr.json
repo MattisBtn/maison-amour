@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "restaurant": "Restaurant",
+    "catering": "Traiteur",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  },
+  "errors": {
+    "content_not_found": "Contenu non disponible"
+  },
+  "meta": {
+    "home": {
+      "title": "Maison Amour - Groupe de restauration bordelais",
+      "description": "Découvrez Maison Amour, groupe de restauration bordelais alliant gastronomie et convivialité."
+    },
+    "restaurant": {
+      "title": "Restaurant - Maison Amour",
+      "description": "Notre restaurant vous accueille dans une ambiance chaleureuse pour une expérience culinaire unique."
+    },
+    "catering": {
+      "title": "Service Traiteur - Maison Amour",
+      "description": "Service traiteur de qualité pour vos événements professionnels et privés à Bordeaux."
+    },
+    "contact": {
+      "title": "Contact - Maison Amour",
+      "description": "Contactez-nous pour toute demande d'information ou réservation."
+    }
+  }
+}

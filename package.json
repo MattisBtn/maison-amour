@@ -1,0 +1,17 @@
+{
+  "name": "maison-amour-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:maison-amour": "npm run dev -w apps/site-maison-amour",
+    "dev:banquet": "npm run dev -w apps/site-banquet-traiteur",
+    "build:maison-amour": "npm run build -w apps/site-maison-amour",
+    "build:banquet": "npm run build -w apps/site-banquet-traiteur"
+  },
+  "dependencies": {
+    "contentful": "^11.3.4"
+  }
+}
